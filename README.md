@@ -1,1 +1,1 @@
-# 123 hp com setup | Download HP Printer Setup Now
+# 123 hp com setup - Download HP Printer Setup Now
