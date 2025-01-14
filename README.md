@@ -59,7 +59,7 @@ Let’s look at the step-by-step instructions and guide that you can follow to d
 <li>Afterward, accept the terms and conditions and select your preferred connection method, i.e., wireless or USB. Upon selecting, follow the on-screen instructions to complete the installation process.</li>
 <li>A confirmation message will appear on your screen once the installation process is complete.</li>
 <li>After completing the installation, run a sample print test to confirm the HP printer is operating correctly.</li>
-<li>After setting it up, you can revisit 123.hp.com/setup to check for software updates. Try regularly updating your printer software to ensure its optimal performance and print quality.</li></ul>
+<li>After setting it up, you can revisit <a href="https://123hpcomset-up.github.io/">123.hp.com/setup</a> to check for software updates. Try regularly updating your printer software to ensure its optimal performance and print quality.</li></ul>
 
 ### Setting up HP Smart App for Seamless Mobile Printing
 The SmartArt application allows its users to easily print documents or images on mobile devices. This free application enables users to print, scan, and manage printer settings remotely, providing a seamless mobile printing experience.
