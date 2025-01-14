@@ -24,28 +24,28 @@ Getting your HP printer ready for the setup process is the first step toward enj
 
 #### 1. Unboxing your HP Printer
 <ul><li>Open the box packaging and carefully take out your HP printer and all the other items available in it.</li>
-<li>Remove all the protective tapes, films, and packaging materials from the printer, and make sure to handle it with care to avoid any potential damage.</ul></li>
+<li>Remove all the protective tapes, films, and packaging materials from the printer, and make sure to handle it with care to avoid any potential damage.</li></ul>
 
 #### 2. Install Ink Cartridges
 <ul><li>Access the printer ink cartridge door and wait for the cartridge carriage to move into position.</li>
 <li>Take off the protective tapes from the ink cartridges.</li>
 <li>Put the ink cartridges into the respective slots, and they are placed securely.</li>
-<li>Close the cartridge door and wait for the printer to recognize ink cartridges.</ul></li>
+<li>Close the cartridge door and wait for the printer to recognize ink cartridges.</li></ul>
 
 #### 3. Insert Sheets into Tray
 <ul><li>First of all, pull out the paper tray and adjust the guides to fit your paper size.</li>
 <li>Place the white paper sheets in the tray, making sure to align them correctly.</li>
-<li>Align the paper back to its edges to prevent jams.</ul></li>
+<li>Align the paper back to its edges to prevent jams.</li></ul>
 
 #### 4. Set up Printer
 <ul><li>Connect the printer power cable to the main socket and turn on the power button.</li>
-<li>Follow the on-screen instructions to set or adjust date, time, and language preferences.</ul></li>
+<li>Follow the on-screen instructions to set or adjust date, time, and language preferences.</li></ul>
 
 #### 5. Establish the Network Connection
 <ul><li>If you want to connect it wirelessly, navigate to the printer’s settings menu and choose the Wi-Fi setup option.</li>
 <li>Now, select your Wi-Fi network and provide the correct SSID and password.</li>
 <li>If you want to connect through a USB connection, then connect one end of the USB cable to the printer and another to the computer.</li>
-<li>Wait for a few seconds to let your printer establish the connection.</ul></li>
+<li>Wait for a few seconds to let your printer establish the connection.</li></ul>
 
 ### Downloading and Installing HP Printer Drivers via 123.hp.com/setup
 
@@ -59,7 +59,7 @@ Let’s look at the step-by-step instructions and guide that you can follow to d
 <li>Afterward, accept the terms and conditions and select your preferred connection method, i.e., wireless or USB. Upon selecting, follow the on-screen instructions to complete the installation process.</li>
 <li>A confirmation message will appear on your screen once the installation process is complete.</li>
 <li>After completing the installation, run a sample print test to confirm the HP printer is operating correctly.</li>
-<li>After setting it up, you can revisit 123.hp.com/setup to check for software updates. Try regularly updating your printer software to ensure its optimal performance and print quality.</ul></li>
+<li>After setting it up, you can revisit 123.hp.com/setup to check for software updates. Try regularly updating your printer software to ensure its optimal performance and print quality.</li></ul>
 
 ### Setting up HP Smart App for Seamless Mobile Printing
 The SmartArt application allows its users to easily print documents or images on mobile devices. This free application enables users to print, scan, and manage printer settings remotely, providing a seamless mobile printing experience.
@@ -75,18 +75,8 @@ Let’s look at the steps that you can follow to set up the HP Smart application
 <li>Choose the Add Printer option, and then the application will start searching for the available printers.</li>
 <li>Select your HP Printer from the list of available printers and then adhere to the on-screen instructions to complete the setup.</li>
 <li>Afterward, provide your Wi-Fi network details.</li>
-<li>As the setup process ends, then print a testing page from your mobile device.</ul></li>
+<li>As the setup process ends, then print a testing page from your mobile device.</li></ul>
 
 By following the above-listed steps, you can easily set up the HP Smart application on your mobile device. So, whether you’re at home, in the office, or on the go, you can easily carry out new print jobs without any hassle.
 
 With the help of <a href="https://123hpcomset-up.github.io/">123.hp.com/setup</a>, setting up an HP printer is quick and convenient. By following the simple instructions, you can easily set up your HP printer and start enjoying high-quality prints in no time.
-
-
-
-
-
-
-
-
-
-
