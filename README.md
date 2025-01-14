@@ -4,7 +4,7 @@ Are you looking to set up your HP printer? When it comes to setting up an HP pri
 This user-friendly website provides detailed information about setting up your HP printer at <a href="https://123hpcomset-up.github.io/">www.123.hp.com/setup</a>, including downloading the necessary software and drivers. So, start by following the instructions and ensuring your HP printer works flawlessly and smoothly, giving you a stress-free printing experience.
 
 ## Important Points to Remember Before Beginning with the HP Printer Set-Up Process
-Before you embark on your journey towards setting up your HP printer via <a href="https://123hpcomset-up.github.io/">123.hp.com/setup</a>, hold on and take a moment to ensure the essential points to kickstart your setup process with confidence.
+Before you embark on your journey towards setting up your HP printer via <a href="https://123hpcomset-up.github.io/"><u>123.hp.com/setup</u></a>, hold on and take a moment to ensure the essential points to kickstart your setup process with confidence.
 
 Below is a quick checklist of essential points to ensure your HP printer setup process is efficient and stress-free.
 
